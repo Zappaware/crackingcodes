@@ -1,3 +1,8 @@
+#Reverse Cypher
+
+#https://www.nostarch.com/crackingcodes/ (BSD Licensed)
+
+
 message = 'olleh'
 
 translated = ''
